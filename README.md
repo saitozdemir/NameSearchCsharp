@@ -1,4 +1,4 @@
-# TrieCsharp
+# NameSearchCsharp
 Added the ability to add and searching by creating a new list, while looping, and selecting from switch-case. 
 The Linq library belonging to C# was used for searching. 
 In this query, the type letters in the word being queried with the where constraint are made lowercase, the StartsWith() method is used. 
