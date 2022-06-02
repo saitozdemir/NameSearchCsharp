@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq; // Linq library was used for this project
 
-namespace Trie
+namespace NameSearch
 {
     internal class Program
     {
