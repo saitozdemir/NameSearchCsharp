@@ -8,7 +8,7 @@ namespace NameSearch
     {
         static void Main(string[] args)
         {
-            List<string> list = new List<string>(); // create a new List
+            List<string> list = new List<string>(); // create a new List object
             list.Add("mark"); // add new names in homework
             list.Add("markus");
             list.Add("marcel");
